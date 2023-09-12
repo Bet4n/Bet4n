@@ -2,7 +2,6 @@ Repositorio en construccion👋
 	
 *texto en cursiva*
 _texto en cursiva_
-
 _Piolin😄_
 
 	
