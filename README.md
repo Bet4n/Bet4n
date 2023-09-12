@@ -1,7 +1,11 @@
 Repositorio en construccion👋
-	
+		
+**texto en negrita**
+__texto en negrita__
+
 *texto en cursiva*
 _texto en cursiva_
+
 _Piolin😄_
 
 	
