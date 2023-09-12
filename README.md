@@ -1,5 +1,6 @@
 Repositorio en construccion👋
-
+**texto en negrita**
+__texto en negrita__
 <!--
 **Bet4n/Bet4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
