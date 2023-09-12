@@ -1,6 +1,8 @@
 Repositorio en construccion👋
 **texto en negrita**
 __texto en negrita__
+	
+![Alt](/ruta/https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F564x%2Fed%2F00%2Ff2%2Fed00f23259c3e4f8acee84e67106bc56.jpg&tbnid=JEjmJLewDYh5VM&vet=12ahUKEwjz5u2_i6aBAxXamIQIHVLCA7YQMygIegUIARCFAQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F638385315910960988%2F&docid=k_lL8yMH9g4MAM&w=450&h=636&q=piolin&hl=es&ved=2ahUKEwjz5u2_i6aBAxXamIQIHVLCA7YQMygIegUIARCFAQ)
 <!--
 **Bet4n/Bet4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
