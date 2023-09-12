@@ -1,6 +1,6 @@
 Repositorio en construccion👋
-**texto en negrita**
-__texto en negrita__
+**Repositorio en construccion👋**
+__Repositorio en construccion👋__
 	
 
 _Piolin😄_
