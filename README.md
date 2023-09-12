@@ -3,7 +3,6 @@ Repositorio en construccion👋
 __texto en negrita__
 	
 
-*texto en cursiva*
 _Piolin😄_
 
 	
