@@ -4,7 +4,7 @@ Repositorio en construccion👋
 
 
 
-_Piolin😄_
+Estudiante Ing. sistemas
 
 	
 ![Alt](https://o.remove.bg/downloads/aae96ae5-70a0-42ed-9f0d-ae5daeab0f3b/tweety-whiskers-desktop-wallpaper-clip-art-looney-tunes-png-favpng-kpsPvcu4C0wRQifgp0GRWB4hL-removebg-preview.png)
