@@ -4,10 +4,10 @@ Repositorio en construccion👋
 
 
 
-Estudiante Ing. sistemas
+Estudiante
 
 	
-![Alt](https://o.remove.bg/downloads/aae96ae5-70a0-42ed-9f0d-ae5daeab0f3b/tweety-whiskers-desktop-wallpaper-clip-art-looney-tunes-png-favpng-kpsPvcu4C0wRQifgp0GRWB4hL-removebg-preview.png)
+
 
 <!--
 **Bet4n/Bet4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
