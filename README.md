@@ -1,4 +1,4 @@
-Programnador en construccion👋
+Programador en construccion👋
 		Samuel Betancourt Caicedo
 
 
