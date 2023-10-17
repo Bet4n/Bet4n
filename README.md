@@ -1,5 +1,5 @@
 Programnador en construccion👋
-		
+		Samuel Betancourt Caicedo
 
 
 ![image](https://github.com/Bet4n/Bet4n/assets/144852859/3a88f3ba-69d2-4484-8891-3a3cbe99208e)
@@ -8,7 +8,6 @@ Programnador en construccion👋
 
 Estudiante Ingenieria de sistemas 
 
-Me gusta el deporte y la tecnologia como tambien escuchar musica.
 
 
 <!--
